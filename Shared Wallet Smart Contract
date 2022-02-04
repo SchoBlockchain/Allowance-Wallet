@@ -4,7 +4,7 @@ pragma solidity 0.8.1;
 
 import "./Allowance.sol";
 
-//Breaks down into two smart contracts to make it easier to read
+//Breaks down into two smart contracts to make it easier to read.
 contract SharedWallet is Allowance {
 
 
